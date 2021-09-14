@@ -39,8 +39,7 @@
 			<array>
 				<string>/Applications/Chess.app/</string>
 				<string>/Applications/FaceTime.app/</string>
-				<string>/Applications/Mail.app/</string>
-				<string>/Applications/Messages.app/</string>
+				
 			</array>
 			<key>pathWhiteList</key>
 			<array>
